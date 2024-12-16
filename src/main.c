@@ -86,6 +86,7 @@ int main() {
 
     free(resultadoTriangulo);
     free(returnColumnSizes);
+    free(returnSize);
 
     return 0;
 }
