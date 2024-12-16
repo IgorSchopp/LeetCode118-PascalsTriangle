@@ -57,7 +57,7 @@ int** TrianguloPascal( int numRows, int* returnSize, int** returnColumnSizes ) {
 }
 
 int main() {
-    int numRows = 15;
+    int numRows = 1;
     int* returnColumnSizes;
     int returnSize;
 
